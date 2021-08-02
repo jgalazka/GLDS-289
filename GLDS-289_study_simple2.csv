@@ -1,0 +1,19 @@
+Sample,Study,Space,Gravity
+Mmus_C57-6J_TMS_MHU1_FLT_1G_Rep1,MHU-1 ,Space,1G
+Mmus_C57-6J_TMS_MHU1_FLT_1G_Rep2,MHU-1 ,Space,1G
+Mmus_C57-6J_TMS_MHU1_FLT_1G_Rep3,MHU-1 ,Space,1G
+Mmus_C57-6J_TMS_MHU1_FLT_uG_Rep1,MHU-1 ,Space,uG 
+Mmus_C57-6J_TMS_MHU1_FLT_uG_Rep2,MHU-1 ,Space,uG 
+Mmus_C57-6J_TMS_MHU1_FLT_uG_Rep3,MHU-1 ,Space,uG 
+Mmus_C57-6CR_TMS_MHU1_GC_1G_Rep1,MHU-1 ,Ground,1G 
+Mmus_C57-6CR_TMS_MHU1_GC_1G_Rep2,MHU-1 ,Ground,1G 
+Mmus_C57-6CR_TMS_MHU1_GC_1G_Rep3,MHU-1 ,Ground,1G 
+Mmus_C57-6J_TMS_MHU2_FLT_1G_Rep1,MHU-2 ,Space,1G
+Mmus_C57-6J_TMS_MHU2_FLT_1G_Rep2,MHU-2 ,Space,1G
+Mmus_C57-6J_TMS_MHU2_FLT_1G_Rep3,MHU-2 ,Space,1G
+Mmus_C57-6J_TMS_MHU2_FLT_uG_Rep1,MHU-2 ,Space,uG 
+Mmus_C57-6J_TMS_MHU2_FLT_uG_Rep2,MHU-2 ,Space,uG 
+Mmus_C57-6J_TMS_MHU2_FLT_uG_Rep3,MHU-2 ,Space,uG 
+Mmus_C57-6J_TMS_MHU2_GC_1G_Rep1,MHU-2 ,Ground,1G 
+Mmus_C57-6J_TMS_MHU2_GC_1G_Rep2,MHU-2 ,Ground,1G 
+Mmus_C57-6J_TMS_MHU2_GC_1G_Rep3,MHU-2 ,Ground,1G 
